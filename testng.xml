@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="My Test Report for xyz">
+  <test name="My first testNG tests">
+  <classes>
+  <class name="TestDemo.SeleniumPackage"></class>
+  
+  
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
